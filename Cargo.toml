@@ -1,0 +1,7 @@
+[package]
+name = "htail"
+version = "0.1.0"
+authors = ["tomasz"]
+
+[dependencies]
+hyper="*"
